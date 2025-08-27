@@ -34,7 +34,7 @@
 
 ### 👁️‍🗨️ Contact
 - 💬 Discord: `neverdie30
-- 🌐 Telegram: [@patchloop](https://t.me/patchloop)
+- 🌐 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/patchloop)
 
 Feel free to reach out — I’m always up for collaboration and new ideas!
 
