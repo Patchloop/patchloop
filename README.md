@@ -45,4 +45,3 @@ Feel free to reach out — I’m always up for collaboration and new ideas!
 **Thanks for visiting my GitHub!**  
 If you’ve got any questions or are interested in collaborating, don’t hesitate to get in touch.  
 Let's make things happen.
-
