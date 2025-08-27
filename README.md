@@ -1,5 +1,3 @@
-# patchloop
-
 <p align="center">
   💻 I write code that powers solutions to complex problems.<br>
   ~ Passionate about building bots, bypassing protections, and automating processes.<br>
@@ -28,8 +26,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konorze&show_icons=true&theme=github_dark&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Konorze&theme=github-dark&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=patchloop&show_icons=true&theme=github_dark&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=patchloop&theme=github-dark&hide_border=true" width="49%">
 </p>
 
 ---
