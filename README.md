@@ -1,8 +1,10 @@
 <p align="center">
   💻 I write code that powers solutions to complex problems<br>
   ~ Passionate about building bots, bypassing protections, and automating processes<br>
-  ~ Focused on clean, efficient code no noise, just results<br>
-  ~ Expertise in Python, Node.js, WebSockets, and Cloudflare bypass techniques
+  ~ Focused on clean, efficient code  no noise, just results<br> 
+  ~ Expertise in Python, Node.js, WebSockets, and Cloudflare bypass techniques<br>
+  ~ I customize & rebuild MyBB themes (full CSS/UI overhauls) and other front-end themes<br>
+  ~ I build presentation websites, admin panels, and custom dashboards
 </p>
 
 ---
